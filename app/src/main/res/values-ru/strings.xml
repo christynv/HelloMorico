@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Привет, Морико!</string>
+    <string name="hello_world">Привет, Морико!</string>
+    <string name="action_settings">Меню</string>
+</resources>
